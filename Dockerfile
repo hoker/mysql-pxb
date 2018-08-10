@@ -1,4 +1,4 @@
-## Mariadb 10.1 with Xtrabackup
+## MySQL 5.6 with Xtrabackup
 FROM mysql:5.6
 
 LABEL maintainer="John Hoker"
